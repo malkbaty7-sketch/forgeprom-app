@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Forgeprom Code Studio</string>
+    <string name="app_name_ar">فورج برومبت — استوديو البرومبتات</string>
+    <string name="about_body">استوديو عربي لتحويل أفكار التطبيقات إلى موجهات (برومبتات) هندسية احترافية، بمحرك محلي يعمل دون إنترنت ومحركات سحابية اختيارية بموافقتك الصريحة.</string>
+</resources>

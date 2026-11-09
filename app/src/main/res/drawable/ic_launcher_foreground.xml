@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- حرف F بالبنفسجي الفاتح داخل المنطقة الآمنة -->
+    <path
+        android:fillColor="#B388FF"
+        android:pathData="M38,30 L74,30 L74,40 L50,40 L50,50 L68,50 L68,60 L50,60 L50,78 L38,78 Z" />
+</vector>
