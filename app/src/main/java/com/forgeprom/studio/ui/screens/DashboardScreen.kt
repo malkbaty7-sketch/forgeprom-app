@@ -76,14 +76,14 @@ fun DashboardScreen(
                 activities.forEach { a ->
                     Column(Modifier.padding(vertical = 4.dp)) {
                         Text(
-                            when (a.type) {
+                            (when (a.type) {
                                 "analyze" -> "تحليل"
                                 "generate" -> "توليد"
                                 "save" -> "حفظ"
                                 "export" -> "تصدير"
                                 "image" -> "تحليل صورة"
                                 else -> a.type
-                            } + ": " + a.detail.take(60),
+                            }) + ": " + a.detail.take(60),
                             style = MaterialTheme.typography.bodyMedium
                         )
                         Text(
